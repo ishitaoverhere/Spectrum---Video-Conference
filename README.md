@@ -13,9 +13,9 @@
 
 ```bash
 # clone this repo
-$ git clone https://github.com/miroslavpejic85/mirotalk.git
-# go to mirotalk dir
-$ cd mirotalk
+$ git clone https://github.com/ishitaoverhere/Spectrum---Video-Conference.git
+# go to Spectrum - Video Conference dir
+$ cd Spectrum - Video Conference
 # copy .env.template to .env
 $ cp .env.template .env
 # install dependencies
